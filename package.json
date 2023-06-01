@@ -1,0 +1,17 @@
+{
+    "dependencies": {
+        "stegcloak": "^1.1.1",
+        "zerespluginlibrary": "^2.0.6"
+    },
+    "name": "apatev2",
+    "version": "1.0.0",
+    "main": "index.js",
+    "scripts": {
+        "build": "zpl build ApateReincarnated",
+        "init": "zpl init"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "description": ""
+}
